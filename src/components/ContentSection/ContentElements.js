@@ -95,7 +95,7 @@ export const InfoP = styled.p`
     top: 160px;
 
     @media screen and (max-width: 768px){
-        font-size: 20px;
+        font-size: 40px;
         transition: 0.2s all ease;
         top: 200px;
         
